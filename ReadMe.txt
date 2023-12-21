@@ -10,3 +10,6 @@ https://stackoverflow.com/questions/24237524/how-to-split-a-python-string-on-new
 
 Referenced this page to review how to change the type of columns in a pandas DataFrame:
 https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
+
+Info on to_csv method:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
